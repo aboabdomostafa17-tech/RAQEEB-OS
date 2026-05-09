@@ -18,4 +18,4 @@ RAQEEB-OS is an advanced AI-powered security and attendance system. It utilizes 
 * Pandas (Excel Management)
 
 ---
-*Developed by Mostafa Trek Abo Abdo*
+*Developed by Mostafa Tarek Abo Abdo*
